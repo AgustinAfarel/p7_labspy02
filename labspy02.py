@@ -7,7 +7,7 @@ angka3=int(input())
 
 print("\n")
 
-if (angka1 > angka2) and (angka1 > a ngka3) :
+if (angka1 > angka2) and (angka1 > angka3) :
     print(f"Bilangan Pertama Lebih Besar Dari Bilangan Kedua dan Ketiga ")
 
 elif (angka2 > angka1) and (angka2 > angka3) :
