@@ -109,7 +109,7 @@ Untuk menampilkan hasil akhir, maka hanya dengan mengetikan syntax sebagai berik
 
 ``` python
 else:
-    print(f"Bilangan ketiga ({angka3}) lebih besar dari Bilangan pertama dan kedua")
+    print(f"Bilangan ketiga ({angka3}) lebih besar dari Bilangan pertama ({angka1}} dan kedua ({angka2})")
 ```
 
 Pada syntax diatas akan menampilkan hasil berupa : **Bilangan ketiga ({angka3}) lebih besar dari bilangan pertama dan kedua**<br>
