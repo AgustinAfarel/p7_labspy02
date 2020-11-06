@@ -120,6 +120,6 @@ Berikut syntax *screenshot* dari Program yang saya buat :<br>
 2. Contoh Gambar inputan dengan angka terbesar yang ada di inputan kedua<br>
    ![Program angka terbesar 2](gambar/angka2.PNG)   
 3. Contoh Gambar inputan dengan angka sama besar<br>
-   ![Program inputan sama besar]
+   ![Program inputan sama besar](gambar/samabesar.PNG)
 4. Contoh Gambar inputan dengan angka terbesar yang ada di inputan ketiga<br>   
    ![Program angka terbesar 3]     
