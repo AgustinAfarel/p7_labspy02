@@ -112,3 +112,4 @@ else:
     print(f"Bilangan ketiga ({angka3}) lebih besar dari Bilangan pertama dan kedua")
 ```
 
+Pada
