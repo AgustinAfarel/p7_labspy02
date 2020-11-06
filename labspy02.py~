@@ -13,8 +13,8 @@ if (angka1 > angka2) and (angka1 > angka3) :
 elif (angka2 > angka1) and (angka2 > angka3) :
     print(f"Bilangan Kedua Lebih Besar Dari Bilangan Pertama dan Ketiga ")
 
-elif (angka3 == angka1) and (angka3 == angka2) and (angka2 == angka3) :
-    print("Bilangan Yang dimasukan sama besar ")
+elif (angka3 > angka1) and (angka3 > angka2) :
+    print("Bilangan ketiga Lebih Besar dari Bilangan Pertama dan Kedua ")
 
 else:
-    print(f"Bilangan ketiga ({angka3}) lebih besar dari Bilangan pertama dan kedua")
+    print(f"Semua Bilangan Sama Besar")
