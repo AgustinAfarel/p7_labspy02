@@ -18,11 +18,11 @@ Berikut source code yang saya tulis untuk menjadikan aplikasi tersebut.
 
 ``` python
 print("Masukan Angka ke-1 : ")
-angka1=int(input())
+angka1 = int(input())
 print("Masukan Angka ke-2 : ")
-angka2=int(input())
+angka2 = int(input())
 print("Masukan Angka ke-3 : ")
-angka3=int(input())
+angka3 = int(input())
 
 print("\n")
 
