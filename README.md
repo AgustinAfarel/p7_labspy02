@@ -122,4 +122,14 @@ Berikut syntax *screenshot* dari Program yang saya buat :<br>
 3. Contoh Gambar inputan dengan angka sama besar<br>
    ![Program inputan sama besar](gambar/samabesar.PNG)
 4. Contoh Gambar inputan dengan angka terbesar yang ada di inputan ketiga<br>   
-   ![Program angka terbesar 3](gambar/angka3.PNG)     
+   ![Program angka terbesar 3](gambar/angka3.PNG)
+   
+<hr>
+Demikianlah langkah-langkah untuk melakukan pengecekan pada 3 inputan dengan bahasa pemrograman python<br>
+Untuk lebih jelasnya silahkan buka *flowchart* yang telah saya buat (link diatas)
+<hr>
+Demikian Tugas praktikum 7 - praktikum labspy02 telah saya buat, selesai. saya ucapkan Terima Kasih.<br> 
+
+NAMA    : PIKRI RAMDANI
+NIM     : 312010162   
+KELAS   : TI.20 A.1
