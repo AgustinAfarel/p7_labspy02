@@ -126,6 +126,7 @@ Berikut syntax *screenshot* dari Program yang saya buat :<br>
    
 <hr>
 Demikianlah langkah-langkah untuk melakukan pengecekan pada 3 inputan dengan bahasa pemrograman python<br>
+
 Untuk lebih jelasnya silahkan buka *flowchart* yang telah saya buat (link diatas)
 <hr>
 Demikian Tugas praktikum 7 - praktikum labspy02 telah saya buat, selesai. saya ucapkan Terima Kasih.<br> 
