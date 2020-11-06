@@ -12,7 +12,7 @@ Kelas   : TI.20 A.1<br><br>
 Pada Pertemuan ke-7 ini saya mendapat tugas dari Dosen Bahasa Pemrograman Teknik Informatika - Universitas Pelitas Bangsa yaitu Bapak. Agung Nugroho,S.Kom.,M.Kom. untuk membuat Aplikasi yang menentukan Bilangan terbesar dari tiga nilai client/user inputkan menggunakan Bahasa Pemrograman Python.<br><br>
 
 
-Pada repository ini saya akan menjelaskan alur dalam *Flowchart* yang telah saya buat. File *Flowchart* bisa dilihat pada Link berikut ini : [Flowchart P7 Menentukan Bilangan Terbesar Dari 3 Nilai Yang diinputkan](flowchart-p7-pikri-ramdani-312010162.pdf)
+Pada repository ini saya akan menjelaskan alur dalam *Flowchart* yang telah saya buat. File *Flowchart* bisa dilihat pada Link berikut ini : [Flowchart P7 Menentukan Bilangan Terbesar Dari 3 Nilai Yang diinputkan](flowchart-per7-pikri-ramdani-312010162.pdf)
 <br><br>
 Berikut source code yang saya tulis untuk menjadikan aplikasi tersebut. 
 
@@ -49,4 +49,13 @@ angka2=int(input())
 print("Masukan Angka ke-3 : ")
 angka3=int(input())
 ```  
-  
+<br>
+* Langkah selanjutnya yaitu saatnya menentukan logika untuk menentukan bilangan terbesar dari angka yang yang saya inputkan diatas.<br>
+Dengan menjelaskan fungsi-fungsi pada source code yang digunakan diatas :<br> 
+
+* Sesuai *flowchart* yang saya buat, client/user diminta untuk memasukan nilai inputan berupa angka dan akan disimpan kedalam variable angka1, angka2, dan angka3. <br>
+Setelah proses input nilai selesai maka saya akan membuat pemilihan angka terbesar berdasarkan kondisi.<>br
+<br> Pada kondisi pertama saya akan melakukan pengecekan terhadap Angka pertama (angka1) terlebih dahulu, yaitu dengan syntax/source code seperti dibawah ini :<br>
+``` python
+if (angka1 > angka2) and (angka1 > angka3) :
+``` 
