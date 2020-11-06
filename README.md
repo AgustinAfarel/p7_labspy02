@@ -118,7 +118,7 @@ Berikut syntax *screenshot* dari Program yang saya buat :<br>
 1. Contoh Gambar inputan dengan angka terbesar yang ada di inputan pertama<br>
    ![Program angka terbesar 1](gambar/angka1.PNG)
 2. Contoh Gambar inputan dengan angka terbesar yang ada di inputan kedua<br>
-   ![Program angka terbesar 2] 
+   ![Program angka terbesar 2](gambar/angka2.PNG)   
 3. Contoh Gambar inputan dengan angka sama besar<br>
    ![Program inputan sama besar]
 4. Contoh Gambar inputan dengan angka terbesar yang ada di inputan ketiga<br>   
