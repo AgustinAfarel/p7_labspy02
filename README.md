@@ -87,8 +87,8 @@ Nah untuk pengecekan selanjutnya saya akan melakukan pengecekan berupa *Apakah N
 elif (angka3 == angka1) and (angka3 == angka2) and (angka2 == angka3) :
 ```
 Pada syintax diatas, dijelaskan terdapat tiga pengecekan pada semua variable, yaitu :<br>
-    1. *(angka1 == angka2)* -> Apakah angka pertama sama besar dengan angka kedua **dan**
-    2. *(angka1 == angka3)* -> Apakah angka pertama sama besar dengan angka ketiga **dan**
+    1. *(angka1 == angka2)* -> Apakah angka pertama sama besar dengan angka kedua **dan**<br>
+    2. *(angka1 == angka3)* -> Apakah angka pertama sama besar dengan angka ketiga **dan**<br>
     3. *(angka2 == angka3)* -> Apakah angka kedua sama besar dengan angka ketiga.
 <br>
 Apabila setelah dilakukan pengecekan dan ternyata semua angka sama besar, maka system akan menampilkan output dengan perintah berikut :<br>
