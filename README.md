@@ -1,8 +1,8 @@
 # p7_labspy02
 repository ini di buat untuk memenuhi tugas pada pertemuan 7 bahasa pemrograman (modul praktikum 2)<br><br>
-Nama : PIKRI RAMDANI<br>
-NIM  : 312010162<br>
-Kelas: TI.20 A.1<br><br>
+Nama    : PIKRI RAMDANI<br>
+NIM     : 312010162<br>
+Kelas   : TI.20 A.1<br><br>
 <hr>
 
 
@@ -38,5 +38,15 @@ elif (angka3 > angka1) and (angka3 > angka2) :
 else:
     print(f"Semua Bilangan Sama Besar")
 ```
- 
+Untuk Penjelasan fungsi input dan print saya tidak akan menjelaskan pada repository kali ini , karena sudah saya jelaskan di repository sebelumnya.<br> 
+
+* langkah pertama yaitu saya akan membuat sebuah inputan tersebut untuk menentukanangka terbesar. Yaitu dengan mengetikan perintah / syntax berikut :<br>
+``` python
+print("Masukan Angka ke-1 : ")
+angka1=int(input())
+print("Masukan Angka ke-2 : ")
+angka2=int(input())
+print("Masukan Angka ke-3 : ")
+angka3=int(input())
+```  
   
