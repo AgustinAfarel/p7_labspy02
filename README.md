@@ -131,6 +131,6 @@ Untuk lebih jelasnya silahkan buka *flowchart* yang telah saya buat (link diatas
 <hr>
 Demikian Tugas praktikum 7 - praktikum labspy02 telah saya buat, selesai. saya ucapkan Terima Kasih.<br> 
 
-NAMA    : PIKRI RAMDANI
-NIM     : 312010162   
-KELAS   : TI.20 A.1
+NAMA    : PIKRI RAMDANI<br>
+NIM     : 312010162<br>   
+KELAS   : TI.20 A.1<br>
