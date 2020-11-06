@@ -51,7 +51,7 @@ angka3=int(input())
 ```  
 <br>
 * Langkah selanjutnya yaitu saatnya menentukan logika untuk menentukan bilangan terbesar dari angka yang yang saya inputkan diatas.<br>
-Dengan menjelaskan fungsi-fungsi pada source code yang digunakan diatas :<br> 
+ Dengan menjelaskan fungsi-fungsi pada source code yang digunakan diatas :<br> 
 
 * Sesuai *flowchart* yang saya buat, client/user diminta untuk memasukan nilai inputan berupa angka dan akan disimpan kedalam variable angka1, angka2, dan angka3. <br>
 Setelah proses input nilai selesai maka saya akan membuat pemilihan angka terbesar berdasarkan kondisi.<>br
