@@ -8,13 +8,13 @@ angka3=int(input())
 print("\n")
 
 if (angka1 > angka2) and (angka1 > angka3) :
-    print(f"Bilangan Pertama Lebih Besar Dari Bilangan Kedua dan Ketiga ")
+    print(f"Bilangan Pertama ({angka1}) Lebih Besar Dari Bilangan Kedua ({angka2}) dan Ketiga ({angka3})")
 
 elif (angka2 > angka1) and (angka2 > angka3) :
-    print(f"Bilangan Kedua Lebih Besar Dari Bilangan Pertama dan Ketiga ")
+    print(f"Bilangan Kedua ({angka2}) Lebih Besar Dari Bilangan Pertama ({angka1}) dan Ketiga ({angka3}) ")
 
 elif (angka3 == angka1) and (angka3 == angka2) and (angka2 == angka3) :
     print("Bilangan Yang dimasukan sama besar ")
 
 else:
-    print(f"Bilangan ketiga ({angka3}) lebih besar dari Bilangan pertama dan kedua")
+    print(f"Bilangan ketiga ({angka3}) lebih besar dari Bilangan pertama ({angka1}) dan kedua ({angka2}) ")

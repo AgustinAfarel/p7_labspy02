@@ -27,16 +27,16 @@ angka3=int(input())
 print("\n")
 
 if (angka1 > angka2) and (angka1 > angka3) :
-    print(f"Bilangan Pertama Lebih Besar Dari Bilangan Kedua dan Ketiga ")
+    print(f"Bilangan Pertama ({angka1}) Lebih Besar Dari Bilangan Kedua ({angka2}) dan Ketiga ({angka3})")
 
 elif (angka2 > angka1) and (angka2 > angka3) :
-    print(f"Bilangan Kedua Lebih Besar Dari Bilangan Pertama dan Ketiga ")
+    print(f"Bilangan Kedua ({angka2}) Lebih Besar Dari Bilangan Pertama ({angka1}) dan Ketiga ({angka3}) ")
 
 elif (angka3 == angka1) and (angka3 == angka2) and (angka2 == angka3) :
     print("Bilangan Yang dimasukan sama besar ")
 
 else:
-    print(f"Bilangan ketiga ({angka3}) lebih besar dari Bilangan pertama dan kedua")
+    print(f"Bilangan ketiga ({angka3}) lebih besar dari Bilangan pertama ({angka1}) dan kedua ({angka2}) ")
 ```
 Untuk Penjelasan fungsi input dan print saya tidak akan menjelaskan pada repository kali ini , karena sudah saya jelaskan di repository sebelumnya.<br> 
 
@@ -67,7 +67,7 @@ Pada syntax diatas dijelaskan bahwa terdapat dua pengecekan pada angka pertama, 
 Apabila Jika Pertama bersifat benar (Angka pertama lebih besar dari angka kedua dan ketiga), maka system akan menampilkan output berupa :<br>
 
 ``` python
- print(f"Bilangan Pertama ({angka1}) Lebih Besar Dari Bilangan Kedua dan Ketiga ")
+ print(f"Bilangan Pertama ({angka1}) Lebih Besar Dari Bilangan Kedua ({angka2}) dan Ketiga ({angka3}) ")
 ```    
 
 dan akan memunculkan hasil seperti berikut : **Bilangan Pertama ({angka1}) lebih besar dari Bilangan kedua dan ketiga**<br>
@@ -76,7 +76,7 @@ dan akan memunculkan hasil seperti berikut : **Bilangan Pertama ({angka1}) lebih
 * Jika dalam pengecekan ada yang salah atau Nilai pertama tidak lebih besar dari Nilai kedua dan ketiga, maka system melakukan pengecekan lanjutan ke fungsi **elif .......** yaitu dengan syntax atau source code berikut :<br>
 
 ``` python
- print(f"Bilangan Kedua ({angka2}) Lebih Besar Dari Bilangan Pertama dan Ketiga ")
+ print(f"Bilangan Kedua ({angka2}) Lebih Besar Dari Bilangan Pertama ({angka1}) dan Ketiga ({angka3}) ")
 ```
 dan akan menampilkan hasil seperti : **Bilangan kedua ({angka2}) lebih besar dari bilangan pertama dan ketiga**<br>
 <br>
@@ -112,4 +112,14 @@ else:
     print(f"Bilangan ketiga ({angka3}) lebih besar dari Bilangan pertama dan kedua")
 ```
 
-Pada
+Pada syntax diatas akan menampilkan hasil berupa : **Bilangan ketiga ({angka3}) lebih besar dari bilangan pertama dan kedua**<br>
+<br>
+Berikut syntax *screenshot* dari Program yang saya buat :<br>
+1. Contoh Gambar inputan dengan angka terbesar yang ada di inputan pertama<br>
+   ![Program angka terbesar 1](gambar/angka1.PNG)
+2. Contoh Gambar inputan dengan angka terbesar yang ada di inputan kedua<br>
+   ![Program angka terbesar 2] 
+3. Contoh Gambar inputan dengan angka sama besar<br>
+   ![Program inputan sama besar]
+4. Contoh Gambar inputan dengan angka terbesar yang ada di inputan ketiga<br>   
+   ![Program angka terbesar 3]     
